@@ -882,7 +882,7 @@ body {
     border-radius: 5px;
     box-shadow: 1px 1px 5px rgba(85, 80, 129, 0.5);
     border: 2px solid #AEC1D6;
-    background-image: #EFF9FF;
+    background: #EFF9FF;
     overflow: hidden;
 }
 
